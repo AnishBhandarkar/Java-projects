@@ -1,5 +1,0 @@
-com\servlet\AddNotes.class
-com\entity\Note.class
-com\servlet\DeleteNoteServlet.class
-com\servlet\UpdateNoteServlet.class
-com\helper\ConnectionProvider.class
